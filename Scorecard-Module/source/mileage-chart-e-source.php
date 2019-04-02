@@ -1,0 +1,1 @@
+['Design',35,35,'color: #40C9FB'],['Provision',132,132,'color: #40C9FB'],['Vendor',406,406,'color: #40C9FB'],['FOC Received',412,412,'color: #40C9FB'],['Total',985,985,'color: #FB670F']
